@@ -51,3 +51,5 @@ class Song
   artist_hash
   end 
 end 
+
+attr
